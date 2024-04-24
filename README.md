@@ -1,5 +1,5 @@
 # 💫 About Me:
-Python dev, I proudly stand,<br>With Flask and SQL at my hand.<br>Bash commands, my trusty sword,<br>Building apps, a goal so grand.<br><br>Challenges met, with eager heart,<br>New things to learn, I always start.<br>Managing data, in the cloud,<br>Teamwork, communication, loud and proud.<br><br>Journey long, growth in my sight,<br>Tickets complete, with delight.<br>Working hard, with growth in mind,<br>Where each step leaves a mark behind.
+Python dev, I forge ahead,<br>Flask's depth, my code's thread.<br>Pandas frame, my data's guide,<br>In the debugger, I confide.<br><br>Scripts evolve, with logic tight,<br>From early morn to late at night.<br>SQLAlchemy links, with finesse,<br>Cloud platforms host, my projects.<br><br>Progress made, each task a feat,<br>With PyCharm's aid, no retreat.<br>Learning curves, forever steep,<br>With all-of-us, good deeds I seed.
 
 
 ## 🌐 Socials:
